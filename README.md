@@ -1,7 +1,7 @@
-# Autotesting with selenium and python
+# Automatically testing with selenium and python
 
-This repository contains homework matherials for a course about automatically testing on the stepik.org.
+This repository contains homework materials for a course about automatically testing on the stepik.org.
 
-# Abot course
+# About course
 
 [Link on the course](https://stepik.org/course/575/)
